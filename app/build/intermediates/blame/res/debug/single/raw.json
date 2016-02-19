@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/like/WorkSpace/Android/InputMehtod/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/like/WorkSpace/Android/InputMehtod/app/src/main/res/raw/realm_properties"
+    },
+    {
+        "merged": "/Users/like/WorkSpace/Android/QR_CodeScan/app/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/like/WorkSpace/Android/QR_CodeScan/app/src/main/res/raw/realm_properties"
+    },
+    {
+        "merged": "/Users/like/WorkSpace/Android/QR_CodeScan/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/like/WorkSpace/Android/QR_CodeScan/app/src/main/res/raw/beep.ogg"
+    }
+]

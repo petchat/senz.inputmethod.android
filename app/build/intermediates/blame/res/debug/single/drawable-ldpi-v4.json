@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/like/WorkSpace/Android/QR_CodeScan/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/like/WorkSpace/Android/QR_CodeScan/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/like/WorkSpace/Android/InputMehtod/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/like/.gradle/caches/modules-2/files-2.1/com.wilddog/wilddog-client-android/0.6.1/13f9d812ccd58589e96245480286056e6097707c/wilddog-client-android-0.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="13f9d812ccd58589e96245480286056e6097707c">
+        <dex dex="/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/pre-dexed/debug/wilddog-client-android-0.6.1_90f9f46384a2106d4f18fa6b9242d9d58af08959.jar" />
+    </item>
+    <item
+        jar="/Users/like/WorkSpace/Android/InputMehtod/app/libs/zxing.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/pre-dexed/debug/zxing_c66086ac76a4663875b0343bf620e31f2a00cb7c.jar" />
+    </item>
+    <item
+        jar="/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_451c1e5fe756cb223a2c9ae530a69148c45625bf.jar" />
+    </item>
+    <item
+        jar="/Users/like/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_97304cd9114b702602dbffaee268dc0a53fcafe2.jar" />
+    </item>
+    <item
+        jar="/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_4bc37a3390f81f7a2ee7168fe866b1519c595fd1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!--<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+<!--</PreferenceScreen>-->
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="demo.ime.SettingActivity"
+    android:supportsSwitchingToNextInputMethod="true">
+
+</input-method>

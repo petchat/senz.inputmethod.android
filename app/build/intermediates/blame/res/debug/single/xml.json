@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/like/WorkSpace/Android/InputMehtod/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/like/WorkSpace/Android/QR_CodeScan/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/like/WorkSpace/Android/QR_CodeScan/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/like/WorkSpace/Android/QR_CodeScan/app/build/intermediates/res/merged/debug/xml/ime_preferences.xml",
+        "source": "/Users/like/WorkSpace/Android/QR_CodeScan/app/src/main/res/xml/ime_preferences.xml"
+    },
+    {
+        "merged": "/Users/like/WorkSpace/Android/InputMehtod/app/build/intermediates/res/merged/debug/xml/ime_preferences.xml",
+        "source": "/Users/like/WorkSpace/Android/InputMehtod/app/src/main/res/xml/ime_preferences.xml"
+    }
+]
