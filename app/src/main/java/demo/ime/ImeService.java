@@ -51,11 +51,14 @@ public class ImeService extends InputMethodService {
             ref_send.addValueEventListener(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
-                    boolean send = (boolean) dataSnapshot.getValue();
-                    if (send) {
-                        Log.d("lk", "onDataChange:send");
-                        keyDownUp(KeyEvent.KEYCODE_ENTER);
-                        ref_send.setValue(false);
+                    Object value = dataSnapshot.getValue();
+                    if (value != null) {
+                        boolean send = (boolean) value;
+                        if (send) {
+                            Log.d("lk", "onDataChange:send");
+                            keyDownUp(KeyEvent.KEYCODE_ENTER);
+                            ref_send.setValue(false);
+                        }
                     }
                 }
 
